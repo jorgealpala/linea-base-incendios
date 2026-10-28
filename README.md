@@ -6,7 +6,7 @@ Elaborado en el marco del trabajo de la Subdirección para el Conocimiento del R
 
 **Configuración oficial (versión final de octubre de 2026):** todos los eventos de vegetación, sin filtro de confianza (solo se excluyen fuentes fijas y falsos positivos); periodo base 2022–2025; calibración de enero de 2022 a agosto de 2026 con corrección del cambio de sensores de 2024. **Línea base recomendada: 138.399 eventos/año** (promedio 2022–2025 homogenizado a la constelación actual). Como indicador complementario de calidad se reportan los eventos de confianza media o superior, equivalentes a unos 85.564 eventos/año. La justificación está en la sección 3.4 y los métodos en la sección 8.
 
-**Acceso al visor en línea:** https://claude.ai/artifact/N91MLV2cWCAQVoHGkZVJhp (privado hasta que se comparta). La memoria técnica formal está en `Memoria_tecnica_linea_base_incendios.docx` y su versión `.pdf`.
+**Acceso al visor en línea:** https://jorgealpala.github.io/linea-base-incendios/ (GitHub Pages; sirve `index.html`, que es la versión online del visor con D3 cargado desde cdnjs). La memoria técnica formal está en `Memoria_tecnica_linea_base_incendios.docx` y su versión `.pdf`.
 
 ---
 
