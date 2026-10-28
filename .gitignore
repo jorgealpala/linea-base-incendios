@@ -1,0 +1,15 @@
+# Insumo demasiado grande para GitHub (182 MB > límite de 100 MB por archivo).
+# El script lee el .parquet equivalente, así que el proyecto sigue siendo reproducible.
+incendios.csv
+
+# Temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
